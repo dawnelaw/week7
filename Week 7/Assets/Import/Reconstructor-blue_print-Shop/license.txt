@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reconstructor-blue print-Shop
+* source:	https://sketchfab.com/3d-models/reconstructor-blue-print-shop-51080c4b16a449efa2949f188802204b
+* author:	pineapple-pine (https://sketchfab.com/pineapple-pine)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reconstructor-blue print-Shop" (https://sketchfab.com/3d-models/reconstructor-blue-print-shop-51080c4b16a449efa2949f188802204b) by pineapple-pine (https://sketchfab.com/pineapple-pine) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

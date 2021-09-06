@@ -1,0 +1,11 @@
+Model Information:
+* title:	Clock
+* source:	https://sketchfab.com/3d-models/clock-3cf15209df874d608e14a544bb4509f2
+* author:	cats (https://sketchfab.com/model4blender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Clock" (https://sketchfab.com/3d-models/clock-3cf15209df874d608e14a544bb4509f2) by cats (https://sketchfab.com/model4blender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
